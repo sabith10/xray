@@ -8,4 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Cached decoded arrays from mask_experiment.py (~1.5 GB)
+cache/
 chest-xrays
